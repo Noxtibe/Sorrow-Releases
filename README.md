@@ -1,4 +1,4 @@
-# Sorrow — Releases
+# Sorrow - Releases
 
 Sorrow is a desktop app to conduct your game library: track, rate, review
 and complete your backlog. This repository only hosts the Windows releases;
@@ -29,7 +29,9 @@ Your collection is stored locally in
 
 ---
 
-# Sorrow — Versions
+FR :
+
+# Sorrow - Versions
 
 Sorrow est une application de bureau pour gérer sa ludothèque : suivre, noter,
 commenter et terminer son backlog. Ce dépôt ne contient que les versions
