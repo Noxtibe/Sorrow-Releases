@@ -63,5 +63,5 @@ La collection est stockée localement dans
 
 ---
 
-Sorrow (formerly Backlog Symphony) — Copyright (c) 2025-2026 Nox. All rights
+Sorrow (formerly Backlog Symphony) - Copyright (c) 2025-2026 Nox. All rights
 reserved. Proprietary software: see the license shown in **About > License**.
