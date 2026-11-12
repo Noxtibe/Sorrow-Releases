@@ -22,11 +22,6 @@ backed up first.
 
 Version 2.0.0 has no built-in updater: install 2.1.0 or later manually once.
 
-## Your data
-
-Your collection is stored locally in
-`%APPDATA%\com.noxtibe.backlogsymphony\`. Uninstalling Sorrow keeps it.
-
 ---
 
 FR :
@@ -55,11 +50,6 @@ vérifiée avant l'installation, et la base est sauvegardée avant.
 
 La version 2.0.0 n'a pas de mise à jour intégrée : installer une fois la 2.1.0
 ou plus récente à la main.
-
-## Vos données
-
-La collection est stockée localement dans
-`%APPDATA%\com.noxtibe.backlogsymphony\`. La désinstallation la conserve.
 
 ---
 
